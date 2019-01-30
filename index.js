@@ -110,3 +110,4 @@ bot.on("ready", async() => {
   if (commandfile) commandfile.run(bot, message, args);
 
 });
+bot.login(process.env.BOT_TOKEN);
