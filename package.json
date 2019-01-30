@@ -1,0 +1,16 @@
+{
+  "name": "Statystyki Serwera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kociak",
+  "license": "ISC",
+  "description": "Statystyki Bota",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1"
+  }
+}
