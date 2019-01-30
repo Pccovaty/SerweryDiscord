@@ -110,5 +110,3 @@ bot.on("ready", async() => {
   if (commandfile) commandfile.run(bot, message, args);
 
 });
-
-bot.login("NTM5ODUyNDI0MDY4OTg4OTI4.DzIYbA.YPnV2m9JhMur60X6AEr0Vf8mjNs")
