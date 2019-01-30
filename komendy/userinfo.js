@@ -32,7 +32,7 @@ module.exports.run = async(bot, message, args) => {
     } else {
   message.channel.send(embed);
     }
-  message.react("526698392810815518");
+  message.react("✅");
 
 };
 
